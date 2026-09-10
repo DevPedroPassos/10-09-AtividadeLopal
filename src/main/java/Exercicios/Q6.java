@@ -1,3 +1,5 @@
+package Exercicios;
+
 import java.util.Scanner;
 
 public class Q6 {
@@ -11,7 +13,6 @@ public class Q6 {
         } else {
             System.out.println("Não possui");
         }
-
         sc.close();
     }
 }
